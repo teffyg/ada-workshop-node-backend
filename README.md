@@ -159,7 +159,7 @@ Antes de iniciar la practica, debe tener lo siguiente:
 
     module.exports = router;
   
-## routes/main-routes.js (original)
+## routes/main-routes.js (to-be)
 
     const express = require('express');
     const router = express.Router();
